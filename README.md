@@ -1,6 +1,6 @@
 
 # Olá, eu sou Padua Vinicius (TROVÃO) 🌩️
-Desenvolvedor Full Stack | Focado em Back-End e Ciência de Dados
+Desenvolvedor Full Stack | Focado em Back-End e Engenharia de Dados
 
 
 ![TROVÃO GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackpaduavinicius&show_icons=true&theme=dracula)
