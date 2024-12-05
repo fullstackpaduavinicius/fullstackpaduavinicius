@@ -1,5 +1,5 @@
 
-# Olá, eu sou Padua Vinicius (TROVÃO) 🌩️
+# Olá, eu sou Ivan Vinicius de Padua (TROVÃO) 🌩️
 Desenvolvedor Full Stack | Focado em Back-End e Engenharia de Dados
 
 
