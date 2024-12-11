@@ -32,8 +32,13 @@ Olá! Eu sou um desenvolvedor full stack com uma paixão especial por engenharia
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 # Certificações 📜
-Desenvolvedor Full Stack pela DNC
-
+Desenvolvedor Full Stack pela DNC <br>
+Introdução ao Desenvolvimento Web <br> Introdução à Front-end com React.JS <br>
+      Versionamento de Código Git <br> Desenvolvimento de API com Express.JS <br>
+                    SQL e MongoDB <br> Testes de Integração com TypeScript <br>
+        Desenvolvimento Front-End <br> Desenvolvimento Back-End <br>
+       Desenvolvimento Full-Stack <br> Web Development Full-Stack <br>
+Aplicação funcional com consumo de API
 # Contato 📬
 
 Email: paduaviniciusfullstack@gmail.com <br>
