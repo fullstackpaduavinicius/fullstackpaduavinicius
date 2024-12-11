@@ -6,7 +6,7 @@ Desenvolvedor Full Stack | Focado em Back-End e Engenharia de Dados
 ![TROVÃO GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackpaduavinicius&show_icons=true&theme=dracula)
 
 Sobre Mim 👋<br>
-Olá! Eu sou um desenvolvedor full stack com uma paixão especial por engenharia de dados e back-end. Buscando minha primeira oportunidade profissional, estou motivado a aplicar meus conhecimentos para resolver problemas de dados e construir soluções eficientes.
+Olá! Eu sou um desenvolvedor full stack com uma paixão especial por engenharia de dados e back-end. Buscando oportunidade profissional, estou motivado a aplicar meus conhecimentos para resolver problemas de dados e construir soluções eficientes.
 
 # Tecnologias & Ferramentas 🔧
  
